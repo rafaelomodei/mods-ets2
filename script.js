@@ -21,6 +21,47 @@ const mods = [
     subTitle: 'Mods Gratuitos para ETS 2.',
     linkDonation: '#',
     linkDownload: '#'
+  },
+  {
+    background: `${pathImage}/page_3.jpg`,
+    title: 'Rafael Omodei 3',
+    subTitle: 'Mods Gratuitos para ETS 2.',
+    linkDonation: '#',
+    linkDownload: '#'
+  },
+  {
+    background: `${pathImage}/page_3.jpg`,
+    title: 'Rafael Omodei 3',
+    subTitle: 'Mods Gratuitos para ETS 2.',
+    linkDonation: '#',
+    linkDownload: '#'
+  },
+  {
+    background: `${pathImage}/page_3.jpg`,
+    title: 'Rafael Omodei 3',
+    subTitle: 'Mods Gratuitos para ETS 2.',
+    linkDonation: '#',
+    linkDownload: '#'
+  },
+  {
+    background: `${pathImage}/page_3.jpg`,
+    title: 'Rafael Omodei 3',
+    subTitle: 'Mods Gratuitos para ETS 2.',
+    linkDonation: '#',
+    linkDownload: '#'
+  },{
+    background: `${pathImage}/page_1.png`,
+    title: 'Rafael Omodei 1',
+    subTitle: 'Mods Gratuitos para ETS 2.',
+    linkDonation: '#',
+    linkDownload: '#'
+  },
+  {
+    background: `${pathImage}/page_1.png`,
+    title: 'Rafael Omodei 1',
+    subTitle: 'Mods Gratuitos para ETS 2.',
+    linkDonation: '#',
+    linkDownload: '#'
   }
 
 
